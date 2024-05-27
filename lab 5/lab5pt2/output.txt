@@ -1,0 +1,24 @@
+Records sorted by remaining time until contract expires (Descending order):
+
+Record 1:
+Owner: weth seb
+Product Name: eb
+Manufacturer: brtb
+Contract Date: 2026-10-14
+Wholesale Price: 345.00
+Unit Price: 45.00
+Quantity: 5555
+Contract Expiration Date: 2026-09-44
+Remaining Time: 2 years, 5 months, 28 days
+
+Record 2:
+Owner: sb fb
+Product Name: sdb
+Manufacturer: sdfb
+Contract Date: 2025-12-11
+Wholesale Price: 0.00
+Unit Price: 0.00
+Quantity: 0
+Contract Expiration Date: 2025-11-41
+Remaining Time: 1 years, 7 months, 25 days
+
