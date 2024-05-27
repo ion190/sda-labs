@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "customer_struct.h": "c",
+        "customer_union.h": "c"
+    }
+}
